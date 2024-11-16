@@ -20,7 +20,7 @@ Run the script (ftp_dictionary_attack_gui.py).
 Enter the FTP server address.
 Browse and select a file containing a list of usernames.
 Browse and select a file containing a list of passwords.
-P.S I put my fav usernames and passwords so don't stress it
+P.S I prefer my fav Rockyou and xato-net-10-million-usernames but you can use any thing.
 Click the "Start" button to begin the dictionary attack.
 The results will be displayed in the GUI.
 
