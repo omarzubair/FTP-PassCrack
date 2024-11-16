@@ -26,5 +26,8 @@ The results will be displayed in the GUI.
 
 Important Notice:
 
+Plz tell me for any errors and i will fix it. 
+
 Legal Disclaimer: Always ensure you have explicit permission to test any FTP server. Unauthorized access to systems is illegal and unethical.
+
 This script is intended for educational purposes only and should only be used in controlled environments where you have permission to perform security testing.
